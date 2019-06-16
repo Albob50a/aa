@@ -1,0 +1,6 @@
+token=NTI5MjIwNDQyMjgwNTU4NjAz.DwyWHA.zlqhSq0OLSPm9z6rpJmtxncnxpg
+owner=529076415694635019
+prefix=D
+game= `💛`دكتور تريك`👑`
+stayinchannel=true 
+songinstatus=false 
